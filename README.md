@@ -19,7 +19,7 @@ I'm a passionate full-stack developer and tech enthusiast with a strong foundati
 - Cloud-native app development with AWS
 
 ## 📫 How to reach me
-- LinkedIn: [shivampatelce](https://www.linkedin.com/in/shivampatelce/)
+- LinkedIn: [shivampatelce](https://www.linkedin.com/in/shivam-patel-97a3b3243/)
 - Email: `shivampatelce@gmail.com`
 
 ## 😄 Pronouns: He/Him
