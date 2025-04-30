@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shivam Patel
+# 👋 Hi, I’m Shivam Patel
   
 I'm a passionate full-stack developer and tech enthusiast with a strong foundation in web and cloud technologies. I love building scalable, user-friendly applications and exploring modern tools that make development efficient and enjoyable.
 
@@ -24,9 +24,7 @@ I'm a passionate full-stack developer and tech enthusiast with a strong foundati
 
 ## 😄 Pronouns: He/Him
 
----
-
-> ✨ Always open to learning, sharing, and building something awesome together!
+✨ Always open to learning, sharing, and building something awesome together!
 
 <!---
 shivampatelce/shivampatelce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
